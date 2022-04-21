@@ -5,6 +5,8 @@ Therefore , there are two things that could be done:
 
 -We can make the data balanced by upsampling or downsampling. But this would mean manipulating the nature of data. So, instead we can find better models which are robust to imbalanced datasets. eg: # Ensemble methods
 -Work with better metrics to understand the capability of the machine learning models instead of just accuracy. eg: Kappa score takes into account the class distribution.
+
+
 ![image](https://user-images.githubusercontent.com/89915293/164507282-ee333fe0-8a3e-4d25-90bb-57e5ca53a7cf.png)
 
 
